@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kRushnAM9
-- 👀 I’m interested in Azure and AI
-- 🌱 I’m currently learning Azure
-- 💞️ I’m looking to collaborate on Azure, AI and ML
+- 👀 I’m interested in Data Science and AI/ML
+- 🌱 I’m currently learning Data Science (SQl to start with, R for analysis and Tableau for Viz)
+- 💞️ I’m looking to collaborate on DS, AI and ML
 - 📫 How to reach me We all r on this big blue beautiful Earth and on Github.
 
 <!---
